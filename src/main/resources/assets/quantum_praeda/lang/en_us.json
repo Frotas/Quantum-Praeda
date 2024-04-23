@@ -1,0 +1,17 @@
+{
+  "item.quantum_praeda.raw_quantumite": "Raw Quantumite",
+  "item.quantum_praeda.raw_neutrinio": "Raw Neutrínio",
+  "item.quantum_praeda.raw_gravitonita": "Raw Gravitonita",
+  "item.quantum_praeda.raw_photonita": "Raw Photonita",
+  "item.quantum_praeda.raw_spinorita": "Raw Spinorita",
+  "item.quantum_praeda.raw_entanglion": "Raw Entanglion",
+  "item.quantum_praeda.raw_supercondutita": "Raw Supercondutita",
+
+  "block.quantum_praeda.quantumite_ore": "Quantumite Ore",
+  "block.quantum_praeda.neutrinio_ore": "Neutrínio Ore",
+  "block.quantum_praeda.gravitonita_ore": "Gravitonita Ore",
+  "block.quantum_praeda.photonita_ore": "Photonita Ore",
+  "block.quantum_praeda.spinorita_ore": "Spinorita Ore",
+  "block.quantum_praeda.entanglion_ore": "Entanglion Ore",
+  "block.quantum_praeda.supercondutita_ore": "Supercondutita Ore"
+}
