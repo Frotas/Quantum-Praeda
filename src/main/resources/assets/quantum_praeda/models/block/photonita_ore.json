@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "block/generated",
   "textures": {
     "layer0": "quantum_praeda:block/photonita_ore"
   }
