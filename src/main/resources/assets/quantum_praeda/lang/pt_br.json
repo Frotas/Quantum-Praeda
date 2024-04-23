@@ -1,0 +1,17 @@
+{
+  "item.quantum_praeda.raw_quantumite": "Minério de Quantumite Bruto",
+  "item.quantum_praeda.raw_neutrinio": "Minério de Neutrínio Bruto",
+  "item.quantum_praeda.raw_gravitonita": "Minério de Gravitonita Bruta",
+  "item.quantum_praeda.raw_photonita": "Minério de Photonita Bruta",
+  "item.quantum_praeda.raw_spinorita": "Minério de Spinorita Bruta",
+  "item.quantum_praeda.raw_entanglion": "Minério de Entanglion Bruto",
+  "item.quantum_praeda.raw_supercondutita": "Minério de Supercondutita Bruta",
+
+  "block.quantum_praeda.quantumite_ore": "Minério de Quantumite",
+  "block.quantum_praeda.neutrinio_ore": "Minério de Neutrínio",
+  "block.quantum_praeda.gravitonita_ore": "Minério de Gravitonita",
+  "block.quantum_praeda.photonita_ore": "Minério de Photonita",
+  "block.quantum_praeda.spinorita_ore": "Minério de Spinorita",
+  "block.quantum_praeda.entanglion_ore": "Minério de Entanglion",
+  "block.quantum_praeda.supercondutita_ore": "Minério de Supercondutita"
+}
