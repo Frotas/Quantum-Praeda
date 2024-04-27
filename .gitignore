@@ -822,17 +822,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/run/config/fml.toml
-/run/crash-reports/crash-2024-04-15_21.46.46-fml.txt
-/run/crash-reports/crash-2024-04-15_21.51.30-fml.txt
-/run/crash-reports/crash-2024-04-15_21.58.42-fml.txt
-/run/crash-reports/crash-2024-04-15_22.02.13-fml.txt
-/run/crash-reports/crash-2024-04-15_22.04.01-fml.txt
-/run/crash-reports/crash-2024-04-16_14.33.54-fml.txt
-/run/crash-reports/crash-2024-04-16_14.42.04-fml.txt
-/run/crash-reports/crash-2024-04-16_14.48.28-fml.txt
-/run/crash-reports/crash-2024-04-16_15.01.17-fml.txt
-/run/crash-reports/crash-2024-04-16_15.09.54-fml.txt
-/run/crash-reports/crash-2024-04-16_15.13.14-fml.txt
-/run/crash-reports/crash-2024-04-16_15.17.55-fml.txt
-/run-data/config/fml.toml
+# Removing the MinecraftForge Development Launher
+/run/**
+/run-data/**
